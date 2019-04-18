@@ -1,5 +1,5 @@
 # PermissionCheck-android-sample
-# Implementation for CAMERA/WRITE_EXTERNAL_STORAGE permission check, using PermissionDispatcher library
+Implementation for CAMERA/WRITE_EXTERNAL_STORAGE permission check, using PermissionDispatcher library.
 
 # See also
 * [PermissionDispatcher github repository](https://github.com/permissions-dispatcher/PermissionsDispatcher)
